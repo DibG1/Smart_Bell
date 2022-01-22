@@ -10,6 +10,7 @@ With the advent of lockdowns, gyms are required to be shut. This had led to a si
 NodeMCU <br>
 MPU6050 <br>
 Pulse Sensor <br>
+Active Buzzer <br>
 
  ## <img src="https://www.livehome3d.com/assets/img/articles/blueprint-into-floor-plan/architectural-blueprint.jpg" width="32" height="32">**Implementation**
 
