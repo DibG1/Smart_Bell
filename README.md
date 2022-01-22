@@ -14,7 +14,7 @@ Pulse Sensor <br>
  ## <img src="https://www.livehome3d.com/assets/img/articles/blueprint-into-floor-plan/architectural-blueprint.jpg" width="32" height="32">**Implementation**
 
 ## <img src="https://media.istockphoto.com/photos/hand-holding-light-bulb-and-business-digital-marketing-innovation-picture-id1127257350?k=20&m=1127257350&s=612x612&w=0&h=s0zCX95yDfUUotfNY_Rx55oU68CXtwnR_rNLtT5kd6g=" width=32 height=32>**Novelty**
-Our product, the Smartbell capitalizes on this situation.To tackle the death due to cardiac arrest situation mentioned earlier, the smartbell has an alarm which rings when the BPM reaches unsafe levels. Our product is unique and better than a smart watch because it will not only alert the user about the increasing heartbeat but also help him/her correcting their form ,number of reps performed and caories burnt. Its a highly specific device made only for excercising with free weights.
+Our product, the Smartbell capitalizes on this situation.To tackle the death due to cardiac arrest situation mentioned earlier, the smartbell has an alarm which rings when the BPM reaches unsafe levels. Our product is unique and better than a smart watch because it will not only alert the user about the increasing heartbeat but also help him/her in correcting their form ,number of reps performed and caories burnt. Its a highly specific device made only for excercising with free weights.
 
 
  
