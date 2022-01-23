@@ -1,5 +1,6 @@
-# Smart_Bell
+# <img src="https://user-images.githubusercontent.com/78297958/150677523-1ac739ee-bd39-4e2b-88d0-3ca33bd86958.png" width="72" height="72"> Smart_Bell
 >A Team Handicap Project
+
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVJKXlY5uo_dAXA_pEo1WReNWcmb9Gr3I_A&usqp=CAU" width="32" height="32"> **Problem Statement**
 
