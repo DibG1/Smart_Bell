@@ -8,10 +8,10 @@ With the advent of lockdowns, gyms are required to be shut. This had led to a si
 
 ## <img src="https://user-images.githubusercontent.com/78297958/150647333-3cce5635-8e09-4113-b022-9570568cfbfc.png" width="32" height="32"> **Components Required**
 
-NodeMCU <br>
-MPU6050 <br>
-Pulse Sensor <br>
-Active Buzzer <br>
+1. NodeMCU <br>
+2. MPU6050 <br>
+3. Pulse Sensor <br>
+4. Active Buzzer <br>
 
  ## <img src="https://www.livehome3d.com/assets/img/articles/blueprint-into-floor-plan/architectural-blueprint.jpg" width="32" height="32">**Implementation**
 We are using a collapsable rod which can convert the dumbbell to a barbell and a benchpress weight thus performing many functions. The device also has a clipping mechanism which can clip different weights. The Smartbell is equipped with a gyroscope sensor which is used for counting the number of reps. The gyroscope sensor also has another function, it will detect if the correct form is used during the workout session, if the correct form is not used, an alarm will start beeping notifying the user to correct their form. The Smartbell is also outfitted with a pulse sensor which is activated when the user places their finger on it. The pulse sensor checks the BPM of the user and if the BPM reaches unsafe levels, the another alarm will ring notifying the user to stop worikng out and take a break. The BPM values recieved is also sent to a webpage which gives the amount of calories burnt. We have used firebase for the IOT functionality of the device.
