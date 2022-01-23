@@ -18,6 +18,7 @@ We are using a collapsable rod which can convert the dumbbell to a barbell and a
 Our product, the Smartbell capitalizes on this situation.To tackle the death due to cardiac arrest situation mentioned earlier, the smartbell has an alarm which rings when the BPM reaches unsafe levels. Our product is unique and better than a smart watch because it will not only alert the user about the increasing heartbeat but also help him/her in correcting their form ,number of reps performed and calories burnt. Its a highly specific device made only for excercising with free weights.
 
 ## <img src="https://d3n817fwly711g.cloudfront.net/uploads/2019/06/The-Easy-Guide-to-Workflows.png" width="32" height="32"> Workflow <br>
+The MPU6050 is an IMU comprising of a three axes accelerometer and gyroscope. Utilizing the raw values obtained from the sensor we calculate the number of reps made in the exercise and if our posture is correct. The pulse sensors senses our BPM and warns if it crosses the minimum threshold level. The data can then be interfaced via IoT and be sent to firebase that can store the data for display in the webpage
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScIy-Bldo9w8CUDv-IHqdkC1QXq_ZeBgz7oA&usqp=CAU" width="32" height="32"> Tech Stack<br>
  1. <img src="https://icon2.cleanpng.com/20180715/skh/kisspng-arduino-computer-software-library-electronics-arduino-logo-5b4beae2df7ab1.6638086415317019869154.jpg" width="32" height="32"> Arduino IDE
