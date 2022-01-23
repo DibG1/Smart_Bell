@@ -22,11 +22,10 @@ Our product, the Smartbell capitalizes on this situation.To tackle the death due
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScIy-Bldo9w8CUDv-IHqdkC1QXq_ZeBgz7oA&usqp=CAU" width="32" height="32"> Tech Stack<br>
  1. <img src="https://icon2.cleanpng.com/20180715/skh/kisspng-arduino-computer-software-library-electronics-arduino-logo-5b4beae2df7ab1.6638086415317019869154.jpg" width="32" height="32"> Arduino IDE
  2. <img src="https://i1.wp.com/www.learnmicropython.com/wp-content/uploads/2019/01/esp8266_logo1.png?resize=300%2C300" width="32" height="32"> NodeMCU
- 3. Fusion 360
- 4. Blynk
- 5. HTML
- 6. Java
- 7. CSS
+ 3. <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/554b7a86-f7d2-4a3c-b679-88c2980f95c7.png?auto=format&ixlib=react-9.0.3&h=auto&w=auto" width="32" height="32"> Fusion 360
+ 4. <img src="https://hackster.imgix.net/uploads/image/file/130358/Blynk_logo.png?auto=compress%2Cformat&w=1280&h=960&fit=max" width="32" height="32"> Blynk
+ 5. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31JlS3RH1rRuZuiVnYZw3iH2KAMRlaNBEGw&usqp=CAU" width="32" height="32"> Firebase
+
 
 
 
