@@ -19,7 +19,7 @@ Our product, the Smartbell capitalizes on this situation.To tackle the death due
 
 ## <img src="https://d3n817fwly711g.cloudfront.net/uploads/2019/06/The-Easy-Guide-to-Workflows.png" width="48" height="48"> Workflow <br>
 
-
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjsBYOA240A2WghqXaFsxPwlE6Iz5M8c3J2g&usqp=CAU" width="62" height="62"> Tech Stack<br>
  
 
 
