@@ -1,7 +1,7 @@
 # Smart_Bell
 >A Team Handicap Project
 
-:bulb:**Problem Statement**
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVJKXlY5uo_dAXA_pEo1WReNWcmb9Gr3I_A&usqp=CAU" width="32 height="32">**Problem Statement**
 
 With the advent of lockdowns, gyms are required to be shut. This had led to a sizeable number of people purchasing gymming equipment for use at home. However, in the absence of a professional trainer, it's common for people to lift weights with improper form that can negatively affect their health.There have also been many cases of deaths in the gym due to cardiac arrests, especially during high intensity workout sessions.
 
